@@ -8,7 +8,7 @@ const SITE = {
   whatsappNumber: "2348139485908", // international format, digits only (no + or spaces)
   whatsappMessage: "Hello EL STYLE HOUSE, I'd like to enquire about a bespoke appointment.",
   email: "elstylehouse@gmail.com",
-  phoneDisplay: "2348139485908",
+  phoneDisplay: "+2348139485908",
   address: "86, Ziks Avenue, Uwani, Enugu, Nigeria",
   instagram: "https://www.instagram.com/elstylehouse?igsh=MXFmODNwdXp2bnVwZw==",
 };
