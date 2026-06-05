@@ -14,7 +14,7 @@ const SITE = {
 };
 
 function whatsappLink(message = SITE.whatsappMessage) {
-  return `https://${SITE.whatsappNumber}?text=${encodeURIComponent(message)}`;
+  return `https://wa.me/${SITE.whatsappNumber}?text=${encodeURIComponent(message)}`;
 }
 
 /* ---------- Inject brand + contact details ---------- */
