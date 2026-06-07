@@ -81,7 +81,7 @@ const selected = new Set();
 
 function buildMessage() {
   const list = Array.from(selected);
-  return `Hello ${SITE.brand}, I'm interested in this ${list.join(", ")}. Please share more details.`;
+  return `Hello ${SITE.brand}, I'm interested in this ${list.join(", ")} i saw on your website and i know you have more designs. Please share more details.`;
 }
 
 function syncUI() {
